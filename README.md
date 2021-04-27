@@ -24,4 +24,4 @@
    * [Jupyter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
 
-8. Open the [MarsWeather notebook](/mars_weather.ipynb) and run the first cell to install the required packages. 
+8. Open the [MarsWeather notebook](/mars_weather.ipynb) and run the cell with the requirements.txt to install the required packages. 
