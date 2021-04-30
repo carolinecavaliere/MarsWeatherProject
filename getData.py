@@ -1,5 +1,5 @@
 
-# Using selenium in Chrome driver to get the HTML table of weather data
+# Selenium using Chrome WebDriver to get the HTML table of weather data
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options 
 
